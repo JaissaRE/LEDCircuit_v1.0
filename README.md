@@ -12,7 +12,7 @@ L'obiettivo principale di questo progetto è calcolare la resistenza necessaria 
 * Cavi jumper
   
 ## Schema Elettrico
-![Schema Elettrico](https://github.com/JaissaRE/LEDCircuit_v1.0/blob/main/LEDCircuit_Schematic.png?raw=true)
+![Schema Elettrico]()
 ## Istruzioni per l'Assemblaggio
 ## Risultati
 ## Link Utili
