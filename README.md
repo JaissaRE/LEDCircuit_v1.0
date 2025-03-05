@@ -37,5 +37,3 @@ Questo risultato va diviso per la corrente desiderara **I** di 20mA o 0,02A (val
 ![circuito in funzione](https://github.com/JaissaRE/LEDCircuit_v1.0/blob/main/Images/circuit.gif?raw=true)
 ## Link Utili
 Per la parte teorica, mi sono basata sulle informazioni reperibili a questo link (https://www.progettiarduino.com/legge-di-ohm-tensione-corrente-e-resistenza.html) mentre per la realizzazione del circuito ho seguito questo tutorial (https://www.instructables.com/Basic-Electronics/)
-
-## Conclusioni
