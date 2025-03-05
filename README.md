@@ -26,15 +26,15 @@ Questo risultato va diviso per la corrente desiderara **I** di 20mA o 0,02A (val
 * 2 Resistori da 10Ω
    
 ## Schema Elettrico
-![Schema Elettrico]
+![Schema Elettrico](https://github.com/JaissaRE/LEDCircuit_v1.0/blob/main/Images/Schematics.jpg?raw=true)
 
 ## Istruzioni per l'Assemblaggio
-* Collegare il connettore ai poli della batteria
-* Connettere in serie i 3 resistori
-* Connettere il LED avendo cura di inserire l'anodo (polo positivo) e il catodo (polo poositivo) nei fori collegati rispettivamente ai poli positivo e negativo della batteria
+* Collegare il connettore ai poli della batteria ![step 1](https://github.com/JaissaRE/LEDCircuit_v1.0/blob/main/Images/Step_1.jpg?raw=true)
+* Connettere in serie i 3 resistori ![step 2](https://github.com/JaissaRE/LEDCircuit_v1.0/blob/main/Images/Step_2.jpg?raw=true)
+* Connettere il LED avendo cura di inserire l'anodo (polo positivo) e il catodo (polo poositivo) nei fori collegati rispettivamente ai poli positivo e negativo della batteria ![step 3](https://github.com/JaissaRE/LEDCircuit_v1.0/blob/main/Images/Step_3.jpg?raw=true)
 
 ## Risultati
-<!--mettere una gif-->
+![circuito in funzione](https://github.com/JaissaRE/LEDCircuit_v1.0/blob/main/Images/circuit.gif?raw=true)
 ## Link Utili
 Per la parte teorica, mi sono basata sulle informazioni reperibili a questo link (https://www.progettiarduino.com/legge-di-ohm-tensione-corrente-e-resistenza.html) mentre per la realizzazione del circuito ho seguito questo tutorial (https://www.instructables.com/Basic-Electronics/)
 
